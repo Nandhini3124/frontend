@@ -1,0 +1,26 @@
+#section1{
+    background-color:pink;
+    height: 60vh;
+    width: 100%;
+    display:flex;
+    justify-content: space-around;
+}
+.box{
+    border: 10px soild blue;
+}
+.parent{
+    display: flex;
+    justify-content: space-around;
+}
+.Admission{
+    color:pink
+}
+.Antonomous{
+    color:red
+}
+.Lifekkcas{
+    color:blue;
+}
+.Academies{
+    color:peachpuff
+}
